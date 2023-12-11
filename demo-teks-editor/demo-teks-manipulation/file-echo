@@ -1,0 +1,5 @@
+echo "Starting to update system"
+sudo apt update
+
+echo "Starting to upgrading system"
+sudo apt upgrade 
